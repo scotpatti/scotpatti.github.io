@@ -24,7 +24,7 @@ My wife and I own Aire Tomcat Tandom rafts that we love to do white water on eve
 
 ## Rock Climbing
 
-... Yeah, we've done that too. But not anymore (too old). In my younger years I climbed Pinnacle Peak (then just outside of Scottsdale, AZ - now in Park in Scottsdale). But we've done lots of climbing in Arizona, California (Joshua Tree National Park is my favorite) and in Texas. 
+... Yeah, we've done that too. But not anymore (too old). In my younger years I climbed Pinnacle Peak (then just outside of Scottsdale, AZ - now a Park in Scottsdale). But we've done lots of climbing in Arizona, California (Joshua Tree National Park is my favorite) and in Texas. 
 
 ## Sailing
 

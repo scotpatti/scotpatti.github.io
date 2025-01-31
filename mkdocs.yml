@@ -1,8 +1,8 @@
-site_name: Scot's GitHub Site on MkDocs
+site_name: Scot's GitHub Site using MkDocs
 theme:
   name: material
   features:
-    - navigation.tabs
+    #- navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -13,18 +13,18 @@ theme:
     - content.code.copy
   language: en
   palette:
-    - scheme: dark
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to Light Mode
-      primary: teal
-      accent: purple
     - scheme: slate
       toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to Light Mode
+        icon: material/brightness-4
+        name: Switch to light mode
       primary: teal
-      accent: purple
+      accent: orange
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: teal
+      accent: orange
 
 extra:
   social:
