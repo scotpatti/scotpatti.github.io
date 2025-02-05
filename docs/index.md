@@ -8,7 +8,7 @@ I'm primarily involved in one big project right now: [oiclearning.com](https://o
 
 My research interests include: 
 
- * Spaitiotemporal Data (from my dissertation)
+ * Spatiotemporal Data (from my dissertation)
  * Education Tech
  * Security
  * Optimization Algorithms
