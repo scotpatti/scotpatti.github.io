@@ -26,7 +26,7 @@ public class BlahBlah {
 ```py
 import tensorflow as tf
 def whatever():
-    print('Whatever')
+    print('Hello World!')
 ```
 
 
