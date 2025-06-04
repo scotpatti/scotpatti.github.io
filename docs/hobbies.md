@@ -8,19 +8,19 @@ I've played Euphonium since I was 5 years old. I've had the privilege to play bo
 
 ## Snow Skiing
 
-I had a great run skiing basically my whole life and still indulge. I'm not a Warren Miller wanna be, but I did make up to 50 at 50. That is, 50 MPH at age 50. Never did do snow boarding. 
+I had a great run skiing basically my whole life and still indulge. I'm not a Warren Miller wannabe, but I did make it up to 50 at 50. That is, 50 MPH at age 50.  
 
 ## SCUBA Diving
 
-Started in College and completed my Centry dive (100 dives) in the Bahamas 2024. I've got to say, the beaches and people in the out islands in the Bahamas are the best! 
+Started in College and completed my Century dive (100 dives) in the Bahamas 2024. I've got to say, the beaches and people in the out islands in the Bahamas are the best! 
 
 ## Private Pilot
 
-After my Doctorate, my wife asked me what I wanted as a reward... I grew up part of my life on property that used to be a WWII training airport for P51 Pilots. In the back of the WWII hanger were 2 P51 Mustangs still in their original shipping crates. Naturally, I chose to learn to fly. 
+After my Doctorate, my wife asked me what I wanted as a reward... I grew up part of my life on property that used to be a WWII training airport for P51 Pilots named Thunderbird B. In the back of the WWII hanger were 2 P51 Mustangs still in their original shipping crates. I always wanted to learn to fly since I was a kid, so naturally, I chose to learn to fly. Now, both my wife and I are private pilots. 
 
 ## White Water Rafting
 
-My wife and I own Aire Tomcat Tandom rafts that we love to do white water on even still. Our highest achievement in this area is the Middle Ocoee river which we have run multiple times. I will say that swimming hell's hole was one of the worst, but only slightly worse than washer machine or table saw. Videos are on youtube (just not the me swimming part).
+My wife and I own Aire Tomcat Tandom rafts that we love to play on white water. Our highest achievement in this area is the Middle Ocoee river which we have run multiple times. I will say that swimming hell's hole was one of the worst, but only slightly worse than washer machine or table saw. Videos are on youtube (just not the me swimming part).
 
 ## Moutain Biking
 
