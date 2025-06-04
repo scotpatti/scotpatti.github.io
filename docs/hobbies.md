@@ -14,6 +14,10 @@ I had a great run skiing basically my whole life and still indulge. I'm not a Wa
 
 Started in College and completed my Centry dive (100 dives) in the Bahamas 2024. I've got to say, the beaches and people in the out islands in the Bahamas are the best! 
 
+## Private Pilot
+
+After my Doctorate, my wife asked me what I wanted as a reward... I grew up part of my life on property that used to be a WWII training airport for P51 Pilots. In the back of the WWII hanger were 2 P51 Mustangs still in their original shipping crates. Naturally, I chose to learn to fly. 
+
 ## White Water Rafting
 
 My wife and I own Aire Tomcat Tandom rafts that we love to do white water on even still. Our highest achievement in this area is the Middle Ocoee river which we have run multiple times. I will say that swimming hell's hole was one of the worst, but only slightly worse than washer machine or table saw. Videos are on youtube (just not the me swimming part).
